@@ -1,0 +1,7 @@
+{
+  "name": "Cheeta AI Voice Assistant",
+  "description": "A futuristic, Jarvis-style voice assistant powered by Gemini Live API. Features real-time voice interaction, YouTube integration, and dynamic audio visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
